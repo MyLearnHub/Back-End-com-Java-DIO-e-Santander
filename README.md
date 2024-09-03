@@ -78,7 +78,7 @@ Este bootcamp oferece uma formação abrangente no desenvolvimento Back-End, abo
 
   <details>
     <summary>Desafios de Projetos: Crie Um Portfólio Vencedor</summary>
-    <img src="assets/certificado_desafios_de_projetos_crie_um_portfolio_vencedor.jpg" alt="Certificado Desafios de Projetos Crie Um Portfólio Vencedor">
+    <img src="assets/certificado_crie_um_portfolio_vencedor.jpg" alt="Certificado Desafios de Projetos Crie Um Portfólio Vencedor">
   </details>
 
   <details>
@@ -138,12 +138,7 @@ Este bootcamp oferece uma formação abrangente no desenvolvimento Back-End, abo
 
   <details>
     <summary>Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional</summary>
-    <img src="assets/certificado_desafios_de_codigo_aperfeicoe_sua_logica_e_pensamento_computacional.jpg" alt="Certificado Desafios de Código Aperfeiçoe Sua Lógica e Pensamento Computacional">
-  </details>
-
-  <details>
-    <summary Conidções, Loops e Exceções na Prática com Java</summary>
-    <img src="assets/certificado_condicoes_loops_e_excecoes_na_pratica_com_java.jpg" alt="Certificado Condições, Loops e Exceções na Prática com Java">
+    <img src="assets/certificado_aperfeicoe_sua_logica.jpg" alt="Certificado Desafios de Código Aperfeiçoe Sua Lógica e Pensamento Computacional">
   </details>
 </details>
 
@@ -184,11 +179,6 @@ Este bootcamp oferece uma formação abrangente no desenvolvimento Back-End, abo
   <details>
     <summary>Abstraindo um Bootcamp Usando Orientação a Objetos em Java</summary>
     <img src="assets/certificado_abstraindo_um_bootcamp_usando_orientacao_a_objetos_em_java.jpg" alt="Certificado Abstraindo um Bootcamp Usando Orientação a Objetos em Java">
-  </details>
-
-  <details>
-    <summary>Orientação a Objetos na Prática com Java</summary>
-    <img src="assets/certificado_orientacao_a_objetos_na_pratica_com_java.jpg" alt="Certificado Orientação a Objetos na Prática com Java">
   </details>
 </details>
 
@@ -238,7 +228,7 @@ Este bootcamp oferece uma formação abrangente no desenvolvimento Back-End, abo
 
   <details>
     <summary>Introdução a Spring Framework com Spring Boot</summary>
-    <img src="assets/certificado_introducao_a_spring_framework_com_spring_boot.jpg" alt="Certificado Introdução a Spring Framework com Spring Boot">
+    <img src="assets/certificado_introducao_ao_spring_framework_com_spring_boot.jpg" alt="Certificado Introdução a Spring Framework com Spring Boot">
   </details>
 
   <details>
@@ -268,7 +258,7 @@ Este bootcamp oferece uma formação abrangente no desenvolvimento Back-End, abo
 
   <details>
     <summary>Trabalhando em Equipes Ágeis</summary>
-    <img src="assets/certificado_trabalhando_em_equipes_agies.jpg" alt="Certificado Trabalhando em Equipes Ágeis">
+    <img src="assets/certificado_trabalhando_em_equipes_ageis.jpg" alt="Certificado Trabalhando em Equipes Ágeis">
   </details>
 
   <details>
