@@ -1,10 +1,14 @@
 <div align="center">
-  <img height="100px" src="assets/empresas_logo.png" alt="Logo da DIO e do Santander" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=dio,santander" alt="Logo da DIO e do Santander" />
   <h3 align="center">Back-End com Java - DIO e Santander</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
 Este bootcamp oferece uma formação abrangente no desenvolvimento Back-End, abordando desde os fundamentos de programação até conceitos avançados de Programação Orientada a Objetos e Estruturas de Dados. Além de explorar o uso da linguagem Java, o curso foca na aplicação de padrões de design essenciais, como aqueles implementados com o framework SpringBoot, e em componentes cruciais para a criação de soluções Back-End robustas e escaláveis. Meu objetivo é dominar esses tópicos para aprimorar minhas habilidades na construção de aplicações eficientes, bem estruturadas e alinhadas às melhores práticas do desenvolvimento de software.
+<div align="center">
+  <h3> 💻Tecnologias Aprendidas</h3>
+  <img src="https://iconsverse.vercel.app/icons?i=java,spring,maven,postgres,mongo" alt="Tecnologias Aprendidas">
+</div>
 
 # 📚Conteúdo Abordado
   * **Princípios de Desenvolvimento de Software Colaborativo:**
